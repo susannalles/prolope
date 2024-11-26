@@ -1,3 +1,3 @@
-# JekyllDemo
+# Plantilla básica de Jekyll
 
-Visit the GitHub Page at <https://susannalles.github.io/JekyllDemo/>
+Salida web en GitHub Page at <https://susannalles.github.io/prolope/>
