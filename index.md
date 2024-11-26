@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Contenido aquí, podéis escribir una breve bienvenida. 
+Contenido de la landing. 
